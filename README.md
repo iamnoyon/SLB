@@ -1,0 +1,2 @@
+# SLB
+Simple Laravel Bookstore
